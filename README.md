@@ -1,6 +1,6 @@
 # Thaís Moreira Teixeira
 
-<img align="right" width="400px" src="./bio.png" />
+<img align="right" width="300px" src="./bio.png" />
 
 <p align="left">
   <a href="mailto:thamoreira@icloud.com">
