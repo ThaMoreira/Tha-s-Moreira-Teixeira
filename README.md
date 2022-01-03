@@ -16,7 +16,7 @@
 
 <br>
 
-- :rocket: Skills: <strong>JAVA | Python | C | C#. 
+- :rocket: Skills: <strong>JAVA | Python | C | C++ | C#. 
 - :mortar_board: Studying: <strong>Computer Engineering.
 - :briefcase: I am currently looking for a job.
 
