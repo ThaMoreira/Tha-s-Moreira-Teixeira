@@ -2,9 +2,9 @@
 
 <img align="right" width="300px" src="./bio.png" />
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tha-moreira/)](https://www.linkedin.com/in/tha-moreira/)
- [![Email Badge](https://img.shields.io/badge/-Email-lightgray?style=flat-square&logo=apple&logoColor=white&link=mailto:thamoreira@icloud.com/)](mailto:thamoreira@icloud.com")
- ![Discord Badge](https://img.shields.io/badge/Tha.Moreira%236692-6633cc?style=flat-square&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/tha-moreira/)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tha-moreira/)](https://www.linkedin.com/in/tha-moreira/)
+ [![Email Badge](https://img.shields.io/badge/-Email-blueviolet?style=flat-square&logo=apple&logoColor=white&link=mailto:thamoreira@icloud.com/)](mailto:thamoreira@icloud.com")
+ ![Discord Badge](https://img.shields.io/badge/Tha.Moreira%236692-blueviolet?style=flat-square&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/tha-moreira/)
 
 <br>
 
