@@ -15,6 +15,7 @@
   </p>
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tha-moreira/)](https://www.linkedin.com/in/tha-moreira/)
+    [![Linkedin Badge](https://img.shields.io/badge/-Email-lightgray?style=flat-square&logo=apple&logoColor=white&link=mailto:thamoreira@icloud.com/)](https://www.linkedin.com/in/tha-moreira/)
 
 <br>
 
