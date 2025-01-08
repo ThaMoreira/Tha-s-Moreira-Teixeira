@@ -8,7 +8,7 @@
 
 <br>
 
-- :rocket: Skills: <strong>JAVA | Python | C | C++ | C#. 
+- :rocket: Skills: <strong> JavaScript | Node.Js | JAVA | Python | C |. 
 - :mortar_board: Studying: <strong>Computer Engineering.
 - :briefcase: I am currently a Dev Jr 🧡!
 
